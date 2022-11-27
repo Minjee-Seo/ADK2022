@@ -18,3 +18,10 @@ ADK2022 (2022.11.05~11.06)
 - HRNet
 
 ## 결과
+
+
+## Contributors
+- [김현서](https://github.com/Hiseoi)
+- [김민지](https://github.com/MinjiK11)
+- [서민지](https://github.com/Minjee-Seo)
+- [최지우](https://github.com/jiwoo-mood)
