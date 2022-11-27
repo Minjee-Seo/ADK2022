@@ -29,7 +29,7 @@ ADK2022 (2022.11.05~11.06)
 
 ## 사용 모델
 
-- HRNet
+- [HRNet](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 
 ## 결과
 
