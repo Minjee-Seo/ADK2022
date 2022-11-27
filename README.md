@@ -9,7 +9,7 @@ ADK2022 (2022.11.05~11.06)
 제공된 이미지에서 말의 keypoint 탐지
 다양한 자세의 말에 대한 주요 관절 위치 keypoint를 탐지하고자 함
 
-##깃허브 폴더 구조
+## 깃허브 폴더 구조 
 ```Deepfake-Detection-Project
 ├── HRNet
 │   ├── lib
